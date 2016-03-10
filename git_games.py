@@ -7,4 +7,4 @@ print "this is gonna be shit"
 
 print "Hila??"
 
-print "table"
+print "chair"
